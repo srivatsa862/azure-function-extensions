@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SasS.Azure.Functions.Extensions", "SasS.Azure.Functions.Extensions\SasS.Azure.Functions.Extensions.csproj", "{91573C74-733C-42DD-BB4B-263778D28074}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SasS.Azure.Functions.Extensions.Tests", "SasS.Azure.Functions.Extensions.Tests\SasS.Azure.Functions.Extensions.Tests.csproj", "{287EFEE1-36DF-46A3-BF45-5B0FC117F028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91573C74-733C-42DD-BB4B-263778D28074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91573C74-733C-42DD-BB4B-263778D28074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91573C74-733C-42DD-BB4B-263778D28074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91573C74-733C-42DD-BB4B-263778D28074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{287EFEE1-36DF-46A3-BF45-5B0FC117F028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{287EFEE1-36DF-46A3-BF45-5B0FC117F028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{287EFEE1-36DF-46A3-BF45-5B0FC117F028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{287EFEE1-36DF-46A3-BF45-5B0FC117F028}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {607769B1-09A6-47F9-9D66-B06A8EF83D9E}
+	EndGlobalSection
+EndGlobal
